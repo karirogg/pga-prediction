@@ -1,0 +1,26 @@
+\begin{thebibliography}{}
+
+\bibitem[Carpenter et~al., 2017]{carpenter2017stan}
+Carpenter, B., Gelman, A., Hoffman, M.~D., Lee, D., Goodrich, B., Betancourt,
+  M., Brubaker, M., Guo, J., Li, P., and Riddell, A. (2017).
+\newblock Stan: A probabilistic programming language.
+\newblock {\em Journal of statistical software}, 76(1).
+
+\bibitem[Courchene, 2018]{courchene_2018}
+Courchene, M. (2018).
+\newblock Data golf predictive model: methodology.
+\newblock \url{https://datagolf.com/predictive-model-methodology/}.
+\newblock Accessed: 2021-11-25.
+
+\bibitem[Egidi and Gabry, 2017]{inproceedings}
+Egidi, L. and Gabry, J. (2017).
+\newblock Bayesian hierarchical models for predicting individual performance in
+  football (soccer).
+\newblock {\em Journal of Sports Analytics}, 3(14):143–157.
+
+\bibitem[Gelman et~al., 2021]{bda3}
+Gelman, A., Carlin, J.~B., Stern, H.~S., and Rubin, D.~B. (2021).
+\newblock {\em Bayesian Data Analysis}.
+\newblock Chapman and Hall/CRC, 2nd ed. edition.
+
+\end{thebibliography}
